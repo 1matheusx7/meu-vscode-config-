@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth"
+}
